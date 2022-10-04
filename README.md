@@ -44,3 +44,5 @@ Root değerinden büyük değere sahip olan node'lar root'un sağ tarafına yerl
 - 2 sayısı 7 den küçük sola 5 den küçük sola 1 den büyük sağa 3 den küçük sola gider.
 
 ![image](https://user-images.githubusercontent.com/33830270/193821113-a8df4817-5c5f-4271-8768-db4e4702680b.png)
+
+[patika.dev](https://www.patika.dev)
